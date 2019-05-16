@@ -29,7 +29,7 @@ public class MainActivity extends Activity implements OnClickListener,SpinerAdap
 
 
         //初始化数据
-        String[] names = {"水果","水果","水果","水果","水果","水果","水果","水果","水果","水果","水果","水果","水果",};
+        String[] names = {"苹果","梨","水果","水果","水果","水果","水果","水果","水果","水果","水果","水果","水果",};
         for(int i = 0; i < names.length; i++){
             mListType.add(names[i]);
         }
