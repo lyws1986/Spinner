@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_down_arrow.png.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\drawable-xxhdpi\\down_arrow.png"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\layout_spiner_item_layout.xml.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\layout\\spiner_item_layout.xml"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\layout_spiner_window_layout.xml.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\layout\\spiner_window_layout.xml"
+    },
+    {
+        "merged": "E:\\rewr\\Spinner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\rewr\\Spinner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

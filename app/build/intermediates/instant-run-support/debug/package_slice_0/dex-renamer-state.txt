@@ -1,0 +1,4 @@
+#Thu May 16 11:03:38 CST 2019
+base.0=E\:\\rewr\\Spinner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\rewr\\Spinner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

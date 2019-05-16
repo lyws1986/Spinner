@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu May 16 11:03:34 CST 2019
+2.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\spiner_item_layout.xml
+2.set=ANDROID_RESOURCE
+4.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\spiner_window_layout.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\down_arrow.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\rewr\\Spinner\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=ANDROID_RESOURCE
